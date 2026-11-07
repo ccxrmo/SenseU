@@ -16,3 +16,7 @@ SenseU serves also as a music player. Music albums can be accessed from the menu
 <img src="./readme-assets/GAMEPAD_SCREEN.png"> <br><br>
 
 <img src="./readme-assets/TV_SCREEN.png">
+
+___
+
+<p>This game has been made using Unity for Wii U, thanks for everyone that keeps preserving pieces of the Wii U legacy. <br> <i>All rights deserved to Nintendo, All the assets were handmade by me taking INSPIRATION from the Wii U's UI, nothing is being reused or taken away from the original creators. Any private information is maintained reserved and private.</i></p>
